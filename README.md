@@ -8,3 +8,4 @@ node version of active support
 
 - write test for hash `reverse_merge`
 - write test for type `is_array`
+- write test for array `remove`
